@@ -732,7 +732,7 @@
         <mxCell id="iJ-FEJKy1Fg8kqFBc6qO-46" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#FFFFFF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="iJ-FEJKy1Fg8kqFBc6qO-45">
           <mxGeometry x="8" y="8" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="iJ-FEJKy1Fg8kqFBc6qO-47" value="Vector DB&lt;div&gt;TF-IDF&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="iJ-FEJKy1Fg8kqFBc6qO-45">
+        <mxCell id="iJ-FEJKy1Fg8kqFBc6qO-47" value="&lt;div&gt;Knowledge Graph&lt;/div&gt;Vector DB&lt;div&gt;TF-IDF&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="iJ-FEJKy1Fg8kqFBc6qO-45">
           <mxGeometry width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="iJ-FEJKy1Fg8kqFBc6qO-61" value="&lt;font color=&quot;#0070f2&quot; face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Parsing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="1">
